@@ -1,3 +1,7 @@
+% workout.cls was written by Michael Giancola (mjgiancola@wpi.edu)
+% It was designed for creating visually pleasing and and easy to read swimming workouts.
+% It is provided without license, so feel free to use it so long as you credit me somewhere in the document.
+
 \LoadClass{article}
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{workout}
